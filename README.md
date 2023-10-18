@@ -1,8 +1,8 @@
 ## Documentação da API Finanças+
 
-[Financias+ online](https://financasmais.vercel.app/)
+[Finanças+ online](https://financasmais.vercel.app/)
 
-[Repositório front-end Financias+](https://github.com/Thzzao/FinanciasMaisResilia)
+[Repositório front-end Finanças+](https://github.com/Thzzao/FinanciasMaisResilia)
 
 Esta documentação descreve os endpoints disponíveis na API Finanças+, incluindo os dados necessários, possíveis erros e exemplos de código.
 
